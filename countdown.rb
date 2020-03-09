@@ -2,8 +2,8 @@
 
 
 
-def countdown 
+def countdown(integer) 
 
-  
+  puts 
 
 end
