@@ -9,3 +9,5 @@ def countdown
   number -= 1
   end
 end
+
+puts
