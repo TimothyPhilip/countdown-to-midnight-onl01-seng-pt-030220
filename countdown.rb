@@ -10,11 +10,11 @@ def countdown(number)
   
   def countdown_with_sleep(number)
   sleep(number)
-  puts "HAPPY NEW YEAR!"
+  
   end
   
   
 end
 
 
-
+return "HAPPY NEW YEAR!"
